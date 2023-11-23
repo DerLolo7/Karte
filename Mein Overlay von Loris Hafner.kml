@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.opengis.net/kml/2.2 https://developers.google.com/kml/schema/kml22gx.xsd">
+   <Document>
+      <name>Zeichnung</name>
+      <Placemark id="marker_1700733405030">
+         <ExtendedData>
+            <Data name="type">
+               <value>marker</value>
+            </Data>
+         </ExtendedData>
+         <name>Schule</name>
+         <description>Hier ich zur Schule gehe.&lt;img src="https://referenz-objekte.ch/projekte/0/1/0/0/10013/bilder/resized/w900-h600-10013_1565861029_bzu-bildungszentrum-jpg.jpg" style="max-height:200px;"/&gt;</description>
+         <Style>
+            <IconStyle>
+               <Icon>
+                  <href>https://api3.geo.admin.ch/color/255,233,0/marker-24@2x.png</href>
+                  <gx:w>48</gx:w>
+                  <gx:h>48</gx:h>
+               </Icon>
+               <hotSpot x="27" y="4.999999999997" xunits="pixels" yunits="pixels" />
+            </IconStyle>
+            <LabelStyle>
+               <color>ff03030ff</color>
+            </LabelStyle>
+         </Style>
+         <Point>
+            <tessellate>1</tessellate>
+            <altitudeMode>clampToGround</altitudeMode>
+            <coordinates>8.707789902875273,47.34905923920126</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark id="marker_1700733600521">
+         <ExtendedData>
+            <Data name="type">
+               <value>marker</value>
+            </Data>
+         </ExtendedData>
+         <name>Haltestelle</name>
+         <description>Bis fahre ich mit dem Bus und laufe zur Schule&lt;img src="https://cms.eichertrucksandbuses.com/uploads/truck/sub-category/a933e5958e4a354cfb8d22665bd244fd.png" style="max-height:200px;"/&gt;</description>
+         <Style>
+            <IconStyle>
+               <Icon>
+                  <href>https://api3.geo.admin.ch/color/25,4,255/marker-24@2x.png</href>
+                  <gx:w>480</gx:w>
+                  <gx:h>480</gx:h>
+               </Icon>
+               <hotSpot x="22" y="4.799999999999997" xunits="pixels" yunits="pixels" />
+            </IconStyle>
+            <LabelStyle>
+               <color>ff00F0ff</color>
+            </LabelStyle>
+         </Style>
+         <Point>
+            <tessellate>1</tessellate>
+            <altitudeMode>clampToGround</altitudeMode>
+            <coordinates>8.709606303497733,47.347522388251996</coordinates>
+         </Point>
+      </Placemark>
+   </Document>
+</kml>
